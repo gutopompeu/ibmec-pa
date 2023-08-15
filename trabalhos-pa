@@ -10,6 +10,7 @@ a passo, representem a sequência detalhada e o pŕoprio bolo represente a taref
 informática, o algoritmo trata-se de uma operação de lógica sistemática que, por meio de uma 
 sequência de operações, almeja alcançar dado objetivo ou resultado. 
 (MEDINA, MARCO; FERTIG, CRISTINA- ALGORITMOS E PROGRAMAÇÃO: TEORIA E PRÁTICA/ 2006)
+
 • INTELIGÊNCIA ARTIFICIAL
 Genericamente, a ideia de inteligência artificial é marcada como um conjunto de tecnologias 
 que permitem o desenvolvimento de máquinas para realizarem atividades humanas de forma autônoma.
@@ -21,6 +22,7 @@ humanos, possibilitando maior eficiência em operações que a elas forem design
 combinação de algoritmos, dados e computação, a IA tem como fim o aprendizado, adaptação e tomar 
 decisões baseadas em dados. 
 (EQUIPE TOTVS- INTELIGÊNCIA ARTIFICIAL: O GUIA COMPLETO SOBRE IA!/ 2023)
+
 • SERVIDOR
 Um servidor é um dos recursos mais importantes atualmente na induśtria de tecnologia da 
 computação. Trata-se de um computador com alta capacidade de armazenamento e processamento de 
@@ -31,6 +33,7 @@ centralizar todos esses dados em um único computador, otimizando a execução d
 tarefas. Importante destacar que executa operações em grande escala, uma vez que transfere os 
 resultados de dadas operações para diferentes computadores.
 (KRIGER, DANIEL- O QUE É UM SERVIDOR, COMO ELE FUNCIONA E PRINCIPAIS VANTAGENS?/ 2022)
+
 • NUVEM
 O conceito de nuvem no cenário de Tecnologia da Informação trata-se meramente de uma 
 metáfora para Internet ou infraestrutura de comunicação entre servidores. Não é, portanto, uma 
@@ -38,6 +41,7 @@ entidade física, mas uma vasta rede de servidores remotos ao redor do globo que
 operam como um único ecossistema. 
 (FLÁVIO R. C. SOUSA, LEONARDO O. MOREIRA E JAVAM C. MACHADO- COMPUTAÇÃO EM NUVEM: 
 CONCEITOS, TECNOLOGIAS, APLICAÇÕES E DESAFIOS/ 2009)
+
 • JURIMETRIA
 As definições de Jurimetria são variadas na literatura, passando por tópicos como Estatística, 
 Computação, Linguística, Comportamento Humano e Ciência. Entretanto, de maneira genérica, definese como a aplicação de métodos quantitativos no Direito. Recorrentemente utilizado na Economia ou 
@@ -46,3 +50,23 @@ isso em vista, com o passar dos anos tal conceito veio crescendo no mundo juríd
 Jurimetria propõe-se com o intuito de analisar a jurisprudência e tornar o uso do Direito mais 
 previsível.
 (ZABALA, FILIPI; SILVEIRA, FABIANO- JURIMETRIA: ESTATÍSTICA APLICADA AO DIREITO/ 2014)
+
+
+• MPF INVESTIGA SE ALGORITMO DO INSS NEGA APOSENTADORIA SEM ANÁLISE DE MÉRITO
+O INSS tem enfrentato críticas, nos últimos anos, devido ao longo tempo de espera e acúmulo de pedidos de benefícios, criando um cenário de dificuldades aos apostentados que aguardavam e necessitavam de tais benefícios. Diante dessa problemática, a autarquia pôs em uso um algoritmo para agilizar o processo, visando promover uma melhora em seu sistema. No entanto, recentemente o MPF iniciou uma investigação motivada por denúncias de apostentados que alegavam terem seus benefícios negados pelo INSS sem a devida análise de mérito. O suposto responsável seria o próprio algoritmo, que utiliza uma inteligência artificial para analisar pedidos de benéficios de aposentadorias, mas ainda não há uma resposta clara de como ela funciona e quais requisitos ela utiliza.
+Se temos o entendimento de que um algoritmo trata-se de uma operação lógica sistemática em que etapas sequencialmente produzidas visam alcançar um fim, sendo neste caso o mérito de um pedido de aposentadoria, deve-se levar em conta que o problema pode ser resultado tanto de uma imprecisão das etapas quanto de uma falta de complexidade necessária da I.A para se alcançar uma resolução de mérito adequada.
+https://elisangelacoelho.adv.br/mpf-investiga-se-o-inss-esta-negando-os-pedidos-sem-analise-justa/
+
+    • ANÁLISE DE CRÉDITO PODE USAR ALGORITMOS?
+	A análise de crédito é um processo criado para verificar e validar informações de solicitantes de financiamentos e empréstimos, ao tempo que avalia os possíveis riscos e/ou benefícios que a concessão daquele valor pode vir a trazer para a instituição, promovendo uma maior segurança a quem empresta e a quem é emprestado. 
+	Históricamente, a análise de crédito dependia de dados preponderantemente limitados e de critérios rigorosos. No entanto, com o passar dos anos esse cenário veio se transformando com o surgimento do Machine Learning (uma das áreas de uma inteligência artificial), que utiliza de algoritmos para estabelecer padrões em conjuntos de dados. Com isso, a utilização dessa ferramenta não só possibilita um futuro mais seguro e inteligente para o setor financeiro, como também eleva a eficácia das avaliações. 
+https://deps.com.br/o-uso-do-machine-learning-na-analise-de-credito/
+
+    • NEGATIVA DE CREDITO PRECISA SER JUSTIFICADA?
+	A negativa de crédito trata-se meramente do direito de determinada instituição financeira em negar o crédito a um solicitante, caso os critérios estipulados para sua concessão não forem atendidos.
+Segundo o entendimento da jurisprudência, e com base no Código de Defesa do Consumidor, é direito do solicitante de ser informado dos motivos que levaram seu crédito a ser negado, independentemente do motivo. A negativa, sem qualquer motivo, é considerada como uma falha na prestação de serviços.
+	https://www.jusbrasil.com.br/noticias/credito-recusado-sem-razao-entenda-o-que-voce-pode-fazer/874123527
+
+    • REDE NEURAL ARTIFICIAL
+	Redes Neurais Artificiais são técnicas computacionais que são modeladas baseadas na estrutura neural de um organismo inteligente e que adquirem conhecimento através da experiência. Uma rede neural é composta por várias unidades de processamento que, conectadas por canais de comunicação, realizam operações apenas sobre seus dados locais.
+	https://sites.icmc.usp.br/andre/research/neural/
