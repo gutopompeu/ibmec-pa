@@ -70,3 +70,27 @@ Segundo o entendimento da jurisprudência, e com base no Código de Defesa do Co
     • REDE NEURAL ARTIFICIAL
 	Redes Neurais Artificiais são técnicas computacionais que são modeladas baseadas na estrutura neural de um organismo inteligente e que adquirem conhecimento através da experiência. Uma rede neural é composta por várias unidades de processamento que, conectadas por canais de comunicação, realizam operações apenas sobre seus dados locais.
 	https://sites.icmc.usp.br/andre/research/neural/
+
+
+
+    • PYTHON
+	É uma linguagem de programação de alto nível e para propósitos diversos. Popular entre desenvolvedores de software, tal linguagem permite que seus usuários utilizem diferentes paradigmas de programação, incluindo linguagens de programação funcionais, processuais, imperativas e orientadas a objetos. Além disso, possui a característica de ser de código aberto, permitindo que os programadores modifiquem seu código-fonte para que se ajuste às suas necessidades. 
+
+Exemplo:
+	print("olá")
+
+
+    • JAVA
+	Considerada uma linguagem de programação de alto nível, portanto que mais se aproxima da linguagem humana, os códigos Java podem rodar sem problemas em qualquer sistema operacional, independente do ambiente em que foram originalmente escritos. Devido  à sua sintaxe, que possui familiaridade com tarefas do mundo real e com estruturas orientadas a objetos, sua linguagem é relativamente simples, tornando-se ainda mais conveniente para que os desenvolvedores construam aplicações de diversas naturezas. Adicionalmente, esta linguagem de programação é comumente utilizada em serviços financeiros devido à sua segurança robusta.
+
+Exemplo:
+	public static void main(String[] args) {
+        System.out.println("oi, tudo bem?");
+
+
+    • JAVASCRIPT
+	JavaScript é uma das melhores linguagens de programação para aprender desenvolvimento web front-end e, por isso, 97,8% de todos os sites do mundo utilizam para seu desenvolvimento client-side. Geralmente é utilizado para melhorar a interatividade de páginas na internet. Ademais, não apenas é muito útil para a criação de sites, como também é excelente para desenvolvimento de aplicações web, já que oferece um design muito intuitivo.
+
+Exemplo:
+	console.log("boa tarde");
+
