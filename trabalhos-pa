@@ -96,13 +96,24 @@ Exemplo:
 
 
 
+A ordem de precedência dos operadores aritméticos e lógicos é um conjunto de regras determinantes para a sequência na qual as operações devem ser executadas. Ela é necessária para garantir que as expressões sejam avaliadas de maneira precisa. Se organiza da seguinte forma:
 
-1. Dominar os conceitos fundamentais da computação não apenas é vantajoso, no que tange à atuação no campo do Direito, como é igualmente necessária a conciliação de ambos conhecimentos, uma vez que a doutrina jurídica deve se adaptar às transformações da sociedade e que, no cenário contemporâneo, advêm da evolução computacional. Portanto, aliado aos saberes da computação, o atuante do Direito terá maior capacidade de liderança e um conhecimento interdisciplinar.
+da ordem de precedência dos operadores aritméticos:
+1. Parênteses: ( )
+2.Exponenciação: ** (ou outras operações de potência)
+3. Multiplicação: *, Divisão: /
+4.Adição: +, Subtração: -
 
-2.
-a) Um algoritmo entende-se como uma operação lógica sistemática que, a partir da execução de uma série de etapas, visa alcançar um resultado determinado.
+da ordem dos operadores lógicos:
+    1. NOT
+    2. AND
+    3. OR
 
-b) Segundo a definição fornecida pela Microsoft, nuvem é um termo referente a uma rede global de servidores, em que cada um exerce uma função própria, interligados ao ponto que atuam dentro de um ecossistema único.
 
-c) Um servidor é um computador com uma alta capacidade de armazenamento e processamento de dados, que tem como principal função a conexão desses dados com outros computadores, por meio de uma rede. 
+É possível modificar a ordem de precedência ao utilizarmos parênteses para estruturar a avaliação em uma ordem específica. Por exemplo, em uma expressão aritmética, é possível colocar operações em parênteses para garantir que sejam avaliadas primeiro, independentemente da ordem padrão de precedência. O mesmo raciocínio pode ser aplicado em expressões lógicas, ao usarmos os parênteses  para especificar a ordem desejada de avaliação.
+
+Fonte: 
+https://support.microsoft.com/pt-br/office/operadores-de-c%C3%A1lculo-e-preced%C3%AAncia-no-excel-48be406d-4975-4d31-b2b8-7af9e0e2878a#:~:text=Para%20alterar%20a%20ordem%20da,seguida%2C%20adiciona%205%20ao%20resultado.
+
+https://learn.microsoft.com/pt-br/office/vba/language/reference/user-interface-help/operator-precedence
 
